@@ -1,0 +1,58 @@
+Are 3D-Printed Guns Really About Free Speech?
+
+‘Death Athletic,’ a new documentary, follows eight years of the ghost gun industry and its most controversial creator, Cody Wilson.
+
+FILM STILL COURTESY 'DEATH ATHLETIC'
+
+While people have long had the federal right to build their own firearm in the United States, that’s historically required buying parts from manufacturers and a good deal of assembly. In some states, it’s perfectly legal to build your own untraceable AK-47 with just a few hours of effort, a sandblaster, and some drills. But you’d nevertheless still need to purchase the individual parts and the know-how to put it all together. Or, with a 3D printer and some downloaded code, you can make all the parts at home. 
+
+Be they 3D-printed or not, the number of homemade “ghost guns” in the U.S. has risen 1000 percent since 2017, per the Department of Justice. This increase in DIY gun creation has been hotly debated among both pro-gun advocates—some of whom believe all guns should be registered with the state or Bureau of Alcohol, Tobacco, Firearms and Explosives—and anti-gun advocates, some of whom simply want fewer guns in circulation. 
+
+The Man Who Scared the World With 3D Printed Guns Isn't Going Anywhere
+Adding to the controversy of 3D-printed guns are some of the people involved. A lot of the early attention was thanks to Cody Wilson, founder of Defense Distributed, an open-source software organization that creates and distributes 3D-printed gun designs. In 2013, the U.S. government banned Defense Distributed from sharing files for their Liberator gun; in 2015, Wilson sued them over it; and in 2018, the case was settled, allowing them to continue operating. Later that year, Wilson pleaded guilty to charges of sexual assault against a minor. He’d met a 16-year-old girl off a sugar daddy dating site and paid her for sex (he says she claimed to be of legal age), and was sentenced to seven years probation and required to register as a sex offender during this period. In November 2022, Wilson completed his probation, and his case was dismissed.  
+
+Death Athletic, a new documentary by Jessica Solce, follows the years-long dispute over 3D weapons and Wilson. Solce traces Wilson’s early battles against the Department of State and how the 3D weapons community transformed amid Wilson’s own personal charges. But even so, Solce does not view the film to be strictly about Wilson or even necessarily about the Second Amendment: “I very much find this to be a First Amendment film,” she says.
+Below, Solce explains how the film was formed over the last ten years, how the 3D gun debate has since shifted, and her intentions in shaping the narrative. Death Athletic premiers October 21st. 
+
+VICE: How did you become interested in telling this story?
+Jessica Solce: Somehow, I've wrapped myself into 10 years of being within this gun debate. My first film, No Control, was about the efficacy of gun control. Cody Wilson was in it, and he was a charismatic figure who was very much in the media at the time. When I finished the film, I thought: His story is going to continue to be interesting, and rather than be frustrated by all these ten-second clips that come out, let's really get a full version of what's happening. 
+
+Did I know that it was going to take eight years? No, and I'm glad I didn't. But in retrospect, I wanted it to be as full a profile as I could get. It started in March 2015, and I last filmed in January 2021. So it took a while. This film, obviously, is about Cody. It's a profile of him, about Defense Distributed, 3D guns, ghost guns—but I think the other strong initial attraction to this film is about cryptoanarchy. It's about information, and how once information is online, it's the most democratic process possible. 
+
+“You have this rich history of techno-politics, and I think it's probably the most efficient type of protest.”
+You have this rich history of techno-politics, and I think it's probably the most efficient type of protest. Once something is created and dispersed, there really is no pulling back the reins in a digital age. Technopolitics is like the first personal computer—once people had that, you couldn’t control it. Assange used techno-politics; Satoshi Nakamoto and Bitcoin; Aaron Schwartz was gathering information to give it to people. That is one of the most democratic things anyone can do.
+
+So Cody's story is one of this deep tradition of technopolitics. He created something, he put it online, and the ability to restrain that to silence or surveil is pretty impossible, no matter what's happened, and the film demonstrates that on a multitude of levels. 
+It’s been two years since you wrapped filming. What has happened since
+
+The most active debate that I see right now is if the government is going to be able to restrict 80 percents. If you have an entire gun or an entire AR-15, it's made of many parts, but the only thing that the ATF considers an actual gun is the lower—that metal piece that you see often with the trigger group in it, that looks like a rectangle. You can buy a full lower online, in much the same way you buy a normal gun, or you can buy a lower that’s only 80 percent constructed and finish it at home yourself.
+
+[Editor’s Note: Because 80 percent lowers are unfinished, they’re not legally considered a firearm. As such, until 2022, they could be purchased without a background check or serial number. A recent rule from the ATF now requires both of these. Manufacturers are challenging that in the courts, but the Supreme Court temporarily upheld the ATF’s rule until that case is resolved.]
+
+The scare tactics and the announcements from the ATF have been enough to cause complete havoc within all these industries that sell things like 80 percents and rifle kits. That havoc has probably been the most successful gun control they've been able to do in a while because it's really stifled these businesses.
+
+“Being death athletic, to me, is someone who is steadfast in their motivations and stands for their principles, despite the obvious retribution or anger they're going to inspire.”
+
+What is it about 3D weapons that frightens people so much when a person has hypothetically always had the right to make their own gun?
+I really think that's just the case of marketing. Of course, there is far more ease in 3D printers, and they will continue improving. When this all started 10 years ago, it produced a palpable fear because it was such a new tech.
+
+New tech is exciting or terrifying—it just depends on where you land. Most anti-gun people do not understand that it is already federally legal. They associate it with criminality, and it’s a juxtaposition that is very hard to shake. It is hyper-emotional. It's built on fear rather than maybe an attempt to understand why people even want to do it. If you dislike the tool or you don't see tools as a democratic process—if you see tools only as an end result of violence—then, yeah, you're going to be scared.
+
+What was your goal in documenting this whole narrative?
+At the most basic level, I really just wanted to capture the story as honestly as possible. I thought that it would also be a good medium to truly understand the legality of what was on the table and what was happening. It's incredibly interesting that this story is not really about guns in the end. Cody has never given anyone a gun, right? He doesn’t sell guns, he doesn't disperse guns, he doesn't put guns in the mail. He is literally only dealing with code, with information. 
+
+This bleeds into the First Amendment, which makes it super interesting. Can the government control information? How and to what level, especially when it's dispersed on the internet—and we know when something's on the internet, it never comes off the internet? Part of my interest in following this case was to figure out how the government would support their idea that they could control code.
+
+To this day, the government has still only come after Cody. He made himself such an object of resistance that he became the only person they actually cared about. So I was also interested in how his legal case would resolve: whether he would go to jail and what else he would create. But I also really wanted to get into his motivations and ethics. I wanted to see more. I wanted to peek behind the curtain a little harder.
+
+As a filmmaker, how did you navigate Cody’s non-gun-related legal issues, leading to his being charged as a sex offender?
+During the beginning process of that as a filmmaker, I'd never been up against anything of that nature with someone that I had grown very close to over the years. I had to navigate being respectful and feeling a little vulturous because I believed I had an important job to catch what was happening. I also tried to sit down with the DA and find the young woman. I knew I had to tap or knock on all those doors.
+
+One part that was really important in addressing it was that Cody was still pioneering the space. So when his criminal stuff happened, other people had to step in. An entire new movement blossomed out of it. He went down, and other people went up. 
+
+The documentary itself is very sparse and straightforward, with little text or explanation given to the viewer. How do you see your style as a filmmaker?
+I want to stay out of the film as much as possible, personally. I think the best compliment I've received so far is from somebody who watched it and said, “I forgot I was watching a documentary.” That's all I need to hear. In every documentary, a camera changes the room. It changes the mood. I ran on a very tight team. Sometimes it was just me. I want to create as authentically as possible, and when I make the next one, I'm going to strive even more to watch and be a voyeur. It's not journalism to me, in a sense. There is lots of research, and there are lots of things that I was doing throughout the entire process, but I want the movie to actually be something you can watch and absorb all the information through the actual character you're following.
+
+What does the title Death Athletic mean?
+Death Athletic comes from the German philosopher Peter Sloterdijl. He's talking about “death athletes” as martyrs for religious purposes, but I kind of modernized it. To me, it is the idea of someone who looks death in the eye, and death is no longer tyrannical. It becomes emancipatory. Being death athletic, to me, is someone who is steadfast in their motivations and stands for their principles, despite the obvious retribution or anger they're going to inspire. 
+
